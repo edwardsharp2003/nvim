@@ -1,0 +1,5 @@
+require("edward.core.options")
+require("edward.core.keymaps")
+require("edward.lazy")
+require("edward.current-theme")
+require("edward.terminalpop")
