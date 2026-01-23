@@ -47,6 +47,12 @@ return {
                 "emmet_language_server",
                 -- "eslint",
                 "marksman",
+                "pyright",      -- Python
+                "clangd",       -- C
+                "jdtls",        -- Java
+                "texlab",       -- LaTeX
+                "bashls",       -- Shellscripts
+                "sqlls",        -- SQL
             },
         })
 
@@ -58,6 +64,9 @@ return {
                 "pylint",
                 "clangd",
                 "denols",
+                "black",        -- Professional Python formatter
+                "shfmt",        -- Formatter for Shellscripts
+                "sql-formatter",-- Formatter for SQL
                 -- { 'eslint_d', version = '13.1.2' },
             },
 
